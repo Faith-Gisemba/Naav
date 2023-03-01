@@ -154,14 +154,20 @@ button{
     margin-left: 70px;
     border-radius: 10%;
 }
-.onee{
-    margin-left: 35%;
+.onee img{
+    margin-left: 39%;
     margin-top: -240px;
+    width: 300px;
 }
-.oneee{
-    width: 500px;
-    margin-top: -20%;
-    margin-left: -20%;
+.oneee img{
+    width: 300px;
+    margin-top: -17%;
+    margin-left: 35%;
+
+}
+.yee img{
+    width: 300px;
+    margin-left: 28%;
 }
 .mend{
     margin-top: 12%;
